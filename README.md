@@ -2,4 +2,10 @@
 This Repo describes kanlyte, and contains the kanlyte website code
 ## What the Repository Does
 
-- [Collaboration]
+- Collaboration
+- Sam
+- Weko
+- Aguba
+- Awele
+- Okudo
+- And many others
