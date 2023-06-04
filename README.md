@@ -1,4 +1,4 @@
-## kanlyte
+## kanlyte Website
 This Repo describes kanlyte, and contains the kanlyte website code
 ## What the Repository Does
 
@@ -8,4 +8,4 @@ This Repo describes kanlyte, and contains the kanlyte website code
 - Aguba
 - Awele
 - Okudo
-- And many others
+- And many others.......
